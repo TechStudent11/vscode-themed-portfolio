@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-about: Create a report to help us improve
+about: Create a bug report to help us improve
 title: '[BUG REPORT]:- (Enter short, one sentence summary of bug here)'
 labels: 'bug'
 assignees: ''
